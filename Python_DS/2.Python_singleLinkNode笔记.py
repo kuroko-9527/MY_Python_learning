@@ -150,3 +150,4 @@ if __name__ == "__main__":
     l1.remove(9)
     l1.travel()
 
+
